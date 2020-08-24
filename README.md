@@ -51,7 +51,7 @@ class MY_Controller extends CI_Controller {
 }
 ```
 #### Admin's Information
-**Do not connect to this motherfucker's*
+**Do not connect to this motherfuckers **
 
 | LoginUserID     | LoginUserName | LoginPassword | Sosok     | Jigchek | Email                    | Description | RegisterDateTime        |
 | --------------- | ------------- | ------------- | --------- | ------- | ------------------------ | ----------- | ----------------------- |
