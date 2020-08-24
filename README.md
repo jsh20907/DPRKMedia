@@ -51,6 +51,8 @@ class MY_Controller extends CI_Controller {
 }
 ```
 #### Admin's Information
+**Do not connect to this motherfucker's*
+
 | LoginUserID     | LoginUserName | LoginPassword | Sosok     | Jigchek | Email                    | Description | RegisterDateTime        |
 | --------------- | ------------- | ------------- | --------- | ------- | ------------------------ | ----------- | ----------------------- |
 | 0463336710      | 정인석           | 1945218       | 경영국 사업부   | 부국장     | koukoku@korea-np.co.jp   | NULL        | 2004-06-03 11:23:16.120 |
